@@ -1,0 +1,17 @@
+version: '3.1'
+
+services:
+  godot:
+    command: tail -f /dev/null
+    image: juanbulfon/vimgodot:1.0
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vimgodot
+    volumes:
+      - type: volume
+        source: src
+        target: /root/myproject
+
+volumes:
+  src:

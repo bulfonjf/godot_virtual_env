@@ -1,0 +1,22 @@
+Godot Engine v3.3.3.stable.arch_linux - https://godotengine.org
+OpenGL ES 3.0 Renderer: Mesa Intel(R) HD Graphics 630 (KBL GT2)
+OpenGL ES Batching: ON
+ 
+[1m[INFO]:  [0musing [/home/bulfonjf/software_development/godot_virtual_env/myproject] for temporary output.
+Godot version:  3.3.3
+GUT version:  7.1.0
+
+
+*** Run Summary ***
+All tests passed
+
+Totals
+Scripts:          0
+Tests:            0
+Passing asserts:  0
+Failing asserts:  0
+Pending:          0
+
+No tests ran
+
+
